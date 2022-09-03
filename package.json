@@ -6,7 +6,7 @@
 	"author": {
 		"name": "Evan Simpson"
 	},
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"scripts": {
 		"release": "semantic-release && rm *.vsix"
 	},
