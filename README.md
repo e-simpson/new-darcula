@@ -1,6 +1,12 @@
 # New Darcula VSCode theme
 A modern take on the [Jetbrains](https://www.jetbrains.com/webstorm/) Darcula theme.
 
+
+![Screenshot](https://github.com/e-simpson/new-darcula/screenshots/1.png)
+
+
+
+
 ## Installation
 [Download from VS Marketplace](https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula)
 
