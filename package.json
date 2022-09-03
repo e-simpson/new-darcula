@@ -1,0 +1,84 @@
+{
+	"name": "new-darcula",
+	"displayName": "New Darcula Theme",
+	"description": "A modern take on the Jetbrains Darcula theme.",
+	"publisher": "e-simpson",
+	"author": {
+		"name": "Evan Simpson"
+	},
+	"version": "1.0.0",
+	"scripts": {
+		"release": "semantic-release && rm *.vsix"
+	},
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"jetbrains",
+		"theme",
+		"darcula",
+		"webstorm",
+		"intellij",
+		"jetbrains",
+		"android",
+		"studio",
+		"pycharm",
+		"clion",
+		"modern",
+		"github"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "New Darcula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/new-darcula-color-theme.json"
+			}
+		]
+	},
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#2b2b2d",
+		"theme": "dark"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/e-simpson/new-darcula/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/e-simpson/new-darcula.git"
+	},
+	"homepage": "https://github.com/e-simpson/new-darcula",
+	"devDependencies": {
+		"@semantic-release/changelog": "^5.0.1",
+		"@semantic-release/git": "^9.0.0",
+		"semantic-release": "^17.4.4",
+		"semantic-release-vsce": "^3.4.1"
+	},
+	"release": {
+		"ci": false,
+		"plugins": [
+			"@semantic-release/commit-analyzer",
+			[
+				"semantic-release-vsce",
+				{
+					"packageVsix": true,
+					"yarn": true
+				}
+			],
+			"@semantic-release/release-notes-generator",
+			"@semantic-release/changelog",
+			"@semantic-release/git",
+			[
+				"@semantic-release/github",
+				{
+					"assets": "*.vsix"
+				}
+			]
+		]
+	}
+}
