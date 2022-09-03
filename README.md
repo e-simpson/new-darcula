@@ -2,7 +2,7 @@
 A modern take on the [Jetbrains](https://www.jetbrains.com/webstorm/) Darcula theme.
 [Download from VS Marketplace](https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula)
 
-![Screenshot](https://raw.githubusercontent.com/e-simpson/new-darcula/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/e-simpson/new-darcula/main/images/screenshot.png)
 
 To achieve this look:
 - Install [JetBrains Icon Theme](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)
