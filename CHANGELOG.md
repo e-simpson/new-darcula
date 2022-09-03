@@ -1,3 +1,6 @@
+## v1.0.4
+- Update docs
+
 ## v1.0.3
 - Update docs, remove dependencies 
 

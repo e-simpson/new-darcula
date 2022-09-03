@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="new-darcula-theme" Version="1.0.3" Publisher="e-simpson"/>
+    <Identity Language="en-US" Id="new-darcula-theme" Version="1.0.4" Publisher="e-simpson"/>
     <DisplayName>New Darcula Theme</DisplayName>
     <Description xml:space="preserve">A modern take on the Jetbrains Darcula theme.</Description>
     <Tags>jetbrains,theme,darcula,webstorm,intellij,jetbrains,android,studio,pycharm,clion,modern,githubcolor-theme,__web_extension</Tags>
