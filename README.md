@@ -2,7 +2,7 @@
 A modern take on the [Jetbrains](https://www.jetbrains.com/webstorm/) Darcula theme.
 
 
-![Screenshot](https://github.com/e-simpson/new-darcula/screenshots/1.png)
+![Screenshot](https://github.com/e-simpson/new-darcula/blob/main/screenshots/1.png)
 
 
 
