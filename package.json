@@ -6,30 +6,15 @@
 	"author": {
 		"name": "Evan Simpson"
 	},
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"scripts": {
 		"release": "semantic-release && rm *.vsix"
 	},
 	"engines": {
 		"vscode": "^1.53.0"
 	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"jetbrains",
-		"theme",
-		"darcula",
-		"webstorm",
-		"intellij",
-		"jetbrains",
-		"android",
-		"studio",
-		"pycharm",
-		"clion",
-		"modern",
-		"github"
-	],
+	"categories": ["Themes"],
+	"keywords": ["jetbrains", "theme", "darcula", "webstorm", "intellij", "jetbrains", "android", "studio", "pycharm", "clion", "modern", "github"],
 	"contributes": {
 		"themes": [
 			{
@@ -52,33 +37,5 @@
 		"type": "git",
 		"url": "https://github.com/e-simpson/new-darcula.git"
 	},
-	"homepage": "https://github.com/e-simpson/new-darcula",
-	"devDependencies": {
-		"@semantic-release/changelog": "^5.0.1",
-		"@semantic-release/git": "^9.0.0",
-		"semantic-release": "^17.4.4",
-		"semantic-release-vsce": "^3.4.1"
-	},
-	"release": {
-		"ci": false,
-		"plugins": [
-			"@semantic-release/commit-analyzer",
-			[
-				"semantic-release-vsce",
-				{
-					"packageVsix": true,
-					"yarn": true
-				}
-			],
-			"@semantic-release/release-notes-generator",
-			"@semantic-release/changelog",
-			"@semantic-release/git",
-			[
-				"@semantic-release/github",
-				{
-					"assets": "*.vsix"
-				}
-			]
-		]
-	}
+	"homepage": "https://github.com/e-simpson/new-darcula"
 }
