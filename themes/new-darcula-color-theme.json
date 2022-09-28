@@ -44,6 +44,8 @@
 		"editorGroupHeader.noTabsBackground": "#3b3f41",
 		"editorGroupHeader.tabsBackground": "#3b3f41",
 		"editorGroupHeader.tabsBorder": "#f9f9f928",
+        "editor.foldBackground": "#0000000a",
+        "editorGutter.foldingControlForeground": "#ffffff",
 		"editorGutter.addedBackground": "#384c38",
 		"editorGutter.background": "#313335",
 		"editorGutter.commentRangeForeground": "#4b4b4b",
