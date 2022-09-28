@@ -6,15 +6,30 @@
 	"author": {
 		"name": "Evan Simpson"
 	},
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"scripts": {
 		"release": "semantic-release && rm *.vsix"
 	},
 	"engines": {
 		"vscode": "^1.53.0"
 	},
-	"categories": ["Themes"],
-	"keywords": ["jetbrains", "theme", "darcula", "webstorm", "intellij", "jetbrains", "android", "studio", "pycharm", "clion", "modern", "github"],
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"jetbrains",
+		"theme",
+		"darcula",
+		"webstorm",
+		"intellij",
+		"jetbrains",
+		"android",
+		"studio",
+		"pycharm",
+		"clion",
+		"modern",
+		"github"
+	],
 	"contributes": {
 		"themes": [
 			{
