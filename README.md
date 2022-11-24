@@ -1,5 +1,5 @@
 # New Darcula VSCode theme
-A modern take on the [Jetbrains](https://www.jetbrains.com/webstorm/) Darcula theme. Download from [VS Marketplace Repo](https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula).
+A modern take on the [Jetbrains](https://www.jetbrains.com/webstorm/) Darcula theme. Leave a review at [VS Marketplace Repo](https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula)! :)
 
 ![Screenshot](https://raw.githubusercontent.com/e-simpson/new-darcula/main/images/screenshot.png)
 

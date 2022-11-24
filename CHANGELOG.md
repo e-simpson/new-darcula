@@ -1,3 +1,6 @@
+## v1.0.6
+- Update quickInputList focus background
+
 ## v1.0.5
 - Improve code folding style
 

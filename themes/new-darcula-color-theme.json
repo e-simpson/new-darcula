@@ -127,7 +127,7 @@
 		"peekViewTitle.background": "#384755",
 		"peekViewTitleDescription.foreground": "#787878",
 		"peekViewTitleLabel.foreground": "#bababa",
-		"quickInputList.focusBackground": "#002a40",
+		"quickInputList.focusBackground": "#376bc0",
 		"scrollbar.shadow": "#00000040",
 		"scrollbarSlider.activeBackground": "#ffffff35",
 		"scrollbarSlider.background": "#ffffff0f",
