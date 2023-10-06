@@ -1,3 +1,6 @@
+## v1.0.7
+- Lua
+
 ## v1.0.6
 - Update quickInputList focus background
 

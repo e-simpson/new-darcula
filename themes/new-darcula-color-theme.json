@@ -253,7 +253,9 @@
 				"meta.function.color.css",
 				"entity.name.type.terraform",
 				"entity.name.label.terraform",
-				"punctuation.comma.graphql"
+				"punctuation.comma.graphql",
+				"keyword.operator.lua",
+				"keyword.control.lua"
 			],
 			"settings": {
 				"foreground": "#CC7832",
