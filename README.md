@@ -2,7 +2,7 @@
     <img src="./images/icon.png" width="100" alt="Logo"/>
     <h3 align="center">New Darcula VSCode Theme</h3>
     <p align="center">
-	Ultra clean take on the <a href="https://www.jetbrains.com/">Jetbrains</a> Darcula theme mixed with a hint of GitHub UI.
+	Ultra clean take on the <a href="https://www.jetbrains.com/">JetBrains</a> Darcula theme mixed with a hint of GitHub UI.
         <br/>
         <p align="center">
 		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z">
