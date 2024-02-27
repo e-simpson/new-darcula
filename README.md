@@ -5,7 +5,7 @@
 	Ultra clean take on the <a href="https://www.jetbrains.com/">JetBrains</a> Darcula theme mixed with a hint of GitHub UI.
         <br/>
         <p align="center">
-		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z">
+		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula">
         </p>
     </p>
 </p>
