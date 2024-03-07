@@ -5,7 +5,9 @@
 	Ultra clean take on the <a href="https://www.jetbrains.com/">JetBrains</a> Darcula theme mixed with a hint of GitHub UI.
         <br/>
         <p align="center">
-		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula">
+		<a href="https://github.com/e-simpson/new-darcula"><img src="https://img.shields.io/github/stars/e-simpson/new-darcula"></a>
+		<a href="https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula"><img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/e-simpson.new-darcula"></a>
+		<a href="https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula"><img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/stars/e-simpson.new-darcula?color=rgb(200%2C%20178%2C%200)"></a>
         </p>
     </p>
 </p>
